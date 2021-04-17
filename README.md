@@ -1,6 +1,8 @@
 # What is a Password Generator?
 Storng password generator to create **secure passwords** that are impossible to crack on your device without sending them across the Internet, and learn over 20 tricks to keep your password secure.
 
+![Random Password Generator](https://miro.medium.com/max/1838/1*KDUWoSI8R4I4VKTgHtSacQ.png)
+
 ## Table of contents
 
 -[What is a Password generator](#what-is-a-password-generator)
