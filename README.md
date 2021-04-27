@@ -28,8 +28,8 @@ Following Features are used to enhance password security
 -[x] Symbols
 
 ## TODO
--[ ] Requirement add at least 1 nubmer
--[ ] Requirement add at least 1 symbol
+-[x] Requirement add at least 1 nubmer
+-[x] Requirement add at least 1 symbol
 
 ## DEMO
 
@@ -49,4 +49,4 @@ Contribute to [Github Repository](https://github.com/ajsamusic/password-generato
 
 ## Tests
 
-Windows `python -m unittests.py`
+Windows `python --m unittests.py`
